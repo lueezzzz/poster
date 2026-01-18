@@ -1,5 +1,5 @@
-## ﻿Poster
+## Poster
 
 
 
-Poster is just a random web application I made to post stuff using microservices.
+Poster is just a random web application I made to post stuff.
